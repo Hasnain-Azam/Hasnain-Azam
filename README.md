@@ -52,26 +52,20 @@
 ---
 
 ## 💼 Projects
-
-- ### [Medical Research Assistant](https://github.com/HasnainA/medical-research-assistant)
-  *#AI/ML #GraphRAG #LLMs*
-
-  A GraphRAG system using Neo4j and LLMs for multi-hop medical reasoning across research literature.
-
+ 
+- ### [Medical Research Assistant](https://github.com/Hasnain-Azam/medical-graph-rag)
+  *#AI/ML #GraphRAG #LLMs #Neo4j #FastAPI*
+  A full-stack GraphRAG application that converts medical PDFs into an interactive knowledge graph for natural-language Q&A. Uses Google Gemini to extract structured medical entities (diseases, drugs, genes, symptoms) and relationships, stores them in Neo4j with vector embeddings, and retrieves relevant subgraphs to power context-aware LLM answers. Built with FastAPI, React, and Docker Compose, with a force-directed graph visualization for exploring connections across research literature.
 ---
-
-- ### [WealthEdge](https://github.com/HasnainA/wealthedge)
-  *#full-stack #finance*
-
-  Full-stack expense tracker with JWT auth, PostgreSQL, and interactive spending analytics dashboards.
-
+ 
+- ### [WealthEdge](https://github.com/Hasnain-Azam/Wealthedge)
+  *#full-stack #finance #React #Node.js #PostgreSQL*
+  A full-stack personal finance tracker inspired by Wealthsimple's minimalist design. Supports expense logging by category and merchant, investing contribution tracking, and interactive spending analytics via Recharts. Backend built with Node.js/Express and PostgreSQL, secured with JWT auth, bcrypt password hashing, rate limiting, Helmet, and CORS. Frontend built with React, Vite, and TailwindCSS.
 ---
-
-- ### [Skyshare](https://github.com/HasnainA/skyshare)
-  *#cloud #AWS*
-
-  File-sharing platform with expiring password-protected links and automated AWS deployments.
-
+ 
+- ### [Cloud SkyShare](https://github.com/Hasnain-Azam/Cloud-SkyShare)
+  *#cloud #DevOps #Docker #CI/CD #Node.js*
+  A containerized file-sharing platform where users upload files and generate password-protected, expiring download links with configurable TTL and per-link download quotas. Built with a Node.js/Express backend, React + Vite frontend, and PostgreSQL — all orchestrated via Docker Compose. Includes a GitHub Actions CI/CD pipeline that automatically builds and publishes production Docker images to GitHub Container Registry (GHCR).
 ---
 
 ### 🔥 My Stats
