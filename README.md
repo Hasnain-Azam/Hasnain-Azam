@@ -9,7 +9,7 @@
 ---
 
 #### 🛠️ I build backend systems, full-stack apps, and developer tools.
-#### 🚀 I love solving hard engineering problems — distributed systems, APIs, and infrastructure.
+#### 🚀 I love solving problems, distributed systems, APIs, and infrastructure.
 #### 🔭 Currently exploring system design, cloud-native development, and AI-powered applications.
 #### 📬 Want to connect? Reach me at h5azam@uwaterloo.ca
 
